@@ -5,3 +5,5 @@ ipython
 lxml
 parse
 coverage
+packaging
+appdirs
